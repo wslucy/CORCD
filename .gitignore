@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+/data
+/results/
+/single_results/
+*.log
